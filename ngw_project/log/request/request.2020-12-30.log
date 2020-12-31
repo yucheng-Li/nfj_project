@@ -1,0 +1,51 @@
+[2020-12-30T10:35:29.456] [MARK] request - {
+  url: {},
+  Method: 'POST',
+  Body: {
+    num: { _prevClass: 'form-control' },
+    password: { _prevClass: 'form-control' }
+  }
+}
+[2020-12-30T10:37:37.476] [MARK] request - {
+  url: {},
+  Method: 'POST',
+  Body: {
+    num: { _prevClass: 'form-control' },
+    password: { _prevClass: 'form-control' }
+  }
+}
+[2020-12-30T10:38:00.565] [MARK] request - {
+  url: {},
+  Method: 'POST',
+  Body: { num: '2389', password: '8djskdjk' }
+}
+[2020-12-30T10:47:52.983] [MARK] request - {
+  url: {},
+  Method: 'POST',
+  Body: { num: '2389', password: '8djskdjk' }
+}
+[2020-12-30T10:49:23.450] [MARK] request - {
+  url: '/getinfo',
+  Method: 'POST',
+  Body: { num: '2389', password: '8djskdjk' }
+}
+[2020-12-30T10:49:23.591] [MARK] request - {
+  url: '/getinfo',
+  Method: 'POST',
+  Body: { num: '2389', password: '8djskdjk' }
+}
+[2020-12-30T10:50:31.319] [MARK] request - {
+  url: '/getinfo',
+  Method: 'POST',
+  Body: { num: '2389', password: '8djskdjk' }
+}
+[2020-12-30T10:50:41.300] [MARK] request - {
+  url: '/getinfo',
+  Method: 'POST',
+  Body: { num: '2389', password: '8djskdjk' }
+}
+[2020-12-30T10:51:01.130] [MARK] request - {
+  url: 'http://localhost:8081',
+  Method: 'POST',
+  Body: { num: '2389', password: '8djskdjk' }
+}

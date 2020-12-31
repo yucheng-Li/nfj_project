@@ -1,0 +1,39 @@
+[2020-12-29T17:28:06.588] [INFO] router-request - {
+  url: 'https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&date=2017-08-03;https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&date=2017-08-02',
+  Method: 'GET',
+  Timeout: '6967ms'
+}
+[2020-12-29T17:35:03.066] [INFO] router-request - {
+  url: 'https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&date=2017-08-03;https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&date=2017-08-02',
+  Method: 'GET',
+  Timeout: '2781ms'
+}
+[2020-12-29T17:36:34.354] [INFO] router-request - {
+  url: 'https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&date=2017-08-03;https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&date=2017-08-02',
+  Method: 'GET',
+  Timeout: '2132ms'
+}
+[2020-12-29T17:36:34.355] [ERROR] router-error - test
+[2020-12-29T17:48:49.509] [INFO] router-request - {
+  url: 'https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&date=2017-08-03;https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&date=2017-08-02',
+  Method: 'GET',
+  Timeout: '1973ms'
+}
+[2020-12-29T17:48:49.509] [ERROR] router-error - test
+[2020-12-29T17:49:19.736] [INFO] router-request - {
+  url: 'https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&date=2017-08-03;https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&date=2017-08-02',
+  Method: 'GET',
+  Timeout: '1010ms'
+}
+[2020-12-29T17:49:19.736] [ERROR] router-error - test
+[2020-12-29T17:49:43.018] [INFO] router-request - {
+  url: 'https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&date=2017-08-03;https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&date=2017-08-02',
+  Method: 'GET',
+  Timeout: '1027ms'
+}
+[2020-12-29T17:49:43.018] [ERROR] router-error - test
+[2020-12-29T18:14:49.057] [MARK] request - {
+  url: 'https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&date=2017-08-03;https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&date=2017-08-02',
+  Method: 'GET',
+  Timeout: '1121ms'
+}

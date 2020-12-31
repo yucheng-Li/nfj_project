@@ -1,0 +1,102 @@
+[2020-12-29T15:57:42.587] [ERROR] router page - TypeError: logger.response is not a function
+    at C:\Users\Administrator\Desktop\南方传媒实习\project\ngw_project\router.js:15:16
+    at wrap (C:\Users\Administrator\Desktop\南方传媒实习\project\ngw_project\node_modules\axios\lib\helpers\spread.js:25:21)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[2020-12-29T15:58:00.313] [ERROR] router page - TypeError: logger.response is not a function
+    at C:\Users\Administrator\Desktop\南方传媒实习\project\ngw_project\router.js:15:16
+    at wrap (C:\Users\Administrator\Desktop\南方传媒实习\project\ngw_project\node_modules\axios\lib\helpers\spread.js:25:21)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[2020-12-29T15:59:59.996] [ERROR] router page - TypeError: logger.response is not a function
+    at C:\Users\Administrator\Desktop\南方传媒实习\project\ngw_project\router.js:15:16
+    at wrap (C:\Users\Administrator\Desktop\南方传媒实习\project\ngw_project\node_modules\axios\lib\helpers\spread.js:25:21)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[2020-12-29T16:03:31.971] [INFO] response - data get
+[2020-12-29T16:03:33.875] [INFO] response - data get
+[2020-12-29T16:13:49.125] [INFO] router-response - data get
+[2020-12-29T16:23:44.348] [INFO] router-response - [Object: null prototype] { 'x-powered-by': 'Express' }
+[2020-12-29T16:24:28.523] [INFO] router-response - [Object: null prototype] { 'x-powered-by': 'Express' }
+[2020-12-29T16:26:03.110] [INFO] router-response - [Object: null prototype] { 'x-powered-by': 'Express' }
+[2020-12-29T16:28:11.964] [INFO] router-response - [Object: null prototype] { 'x-powered-by': 'Express' }
+[2020-12-29T16:28:12.001] [ERROR] router-error - TypeError [ERR_INVALID_ARG_TYPE]: The "name" argument must be of type string. Received undefined
+    at validateString (internal/validators.js:117:11)
+    at ServerResponse.getHeader (_http_outgoing.js:540:3)
+    at C:\Users\Administrator\Desktop\南方传媒实习\project\ngw_project\router.js:16:25
+    at wrap (C:\Users\Administrator\Desktop\南方传媒实习\project\ngw_project\node_modules\axios\lib\helpers\spread.js:25:21)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5) {
+  code: 'ERR_INVALID_ARG_TYPE'
+}
+[2020-12-29T16:28:53.942] [INFO] router-response - [Object: null prototype] { 'x-powered-by': 'Express' }
+[2020-12-29T16:28:57.928] [INFO] router-response - [Object: null prototype] { 'x-powered-by': 'Express' }
+[2020-12-29T16:30:09.225] [INFO] router-response - [Object: null prototype] { 'x-powered-by': 'Express' }
+[2020-12-29T16:34:13.251] [INFO] router-response - [Object: null prototype] { 'x-powered-by': 'Express' }
+[2020-12-29T16:35:15.284] [INFO] router-response - [Object: null prototype] { 'x-powered-by': 'Express' }
+[2020-12-29T16:41:57.865] [INFO] router-response - [Object: null prototype] { 'x-powered-by': 'Express' }
+[2020-12-29T16:41:57.868] [ERROR] router-error - TypeError: Cannot read property 'default' of undefined
+    at ServerResponse.res.format (C:\Users\Administrator\Desktop\南方传媒实习\project\ngw_project\node_modules\express\lib\response.js:663:16)
+    at C:\Users\Administrator\Desktop\南方传媒实习\project\ngw_project\router.js:16:25
+    at wrap (C:\Users\Administrator\Desktop\南方传媒实习\project\ngw_project\node_modules\axios\lib\helpers\spread.js:25:21)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[2020-12-29T16:43:27.656] [INFO] router-response - [Object: null prototype] { 'x-powered-by': 'Express' }
+[2020-12-29T16:43:27.658] [ERROR] router-error - TypeError [ERR_INVALID_ARG_TYPE]: The "name" argument must be of type string. Received undefined
+    at validateString (internal/validators.js:117:11)
+    at ServerResponse.getHeader (_http_outgoing.js:540:3)
+    at ServerResponse.res.get (C:\Users\Administrator\Desktop\南方传媒实习\project\ngw_project\node_modules\express\lib\response.js:789:15)
+    at C:\Users\Administrator\Desktop\南方传媒实习\project\ngw_project\router.js:16:25
+    at wrap (C:\Users\Administrator\Desktop\南方传媒实习\project\ngw_project\node_modules\axios\lib\helpers\spread.js:25:21)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5) {
+  code: 'ERR_INVALID_ARG_TYPE'
+}
+[2020-12-29T16:43:28.903] [INFO] router-response - [Object: null prototype] { 'x-powered-by': 'Express' }
+[2020-12-29T16:43:28.904] [ERROR] router-error - TypeError [ERR_INVALID_ARG_TYPE]: The "name" argument must be of type string. Received undefined
+    at validateString (internal/validators.js:117:11)
+    at ServerResponse.getHeader (_http_outgoing.js:540:3)
+    at ServerResponse.res.get (C:\Users\Administrator\Desktop\南方传媒实习\project\ngw_project\node_modules\express\lib\response.js:789:15)
+    at C:\Users\Administrator\Desktop\南方传媒实习\project\ngw_project\router.js:16:25
+    at wrap (C:\Users\Administrator\Desktop\南方传媒实习\project\ngw_project\node_modules\axios\lib\helpers\spread.js:25:21)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5) {
+  code: 'ERR_INVALID_ARG_TYPE'
+}
+[2020-12-29T16:45:31.374] [INFO] router-response - [Object: null prototype] { 'x-powered-by': 'Express' }
+[2020-12-29T16:45:31.375] [ERROR] router-error - TypeError [ERR_INVALID_ARG_TYPE]: The "name" argument must be of type string. Received undefined
+    at validateString (internal/validators.js:117:11)
+    at ServerResponse.getHeader (_http_outgoing.js:540:3)
+    at ServerResponse.res.get (C:\Users\Administrator\Desktop\南方传媒实习\project\ngw_project\node_modules\express\lib\response.js:789:15)
+    at C:\Users\Administrator\Desktop\南方传媒实习\project\ngw_project\router.js:16:25
+    at wrap (C:\Users\Administrator\Desktop\南方传媒实习\project\ngw_project\node_modules\axios\lib\helpers\spread.js:25:21)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5) {
+  code: 'ERR_INVALID_ARG_TYPE'
+}
+[2020-12-29T16:47:24.375] [INFO] router-response - [Object: null prototype] { 'x-powered-by': 'Express' }
+[2020-12-29T16:47:24.457] [INFO] router-response - [Object: null prototype] { 'x-powered-by': 'Express' }
+[2020-12-29T16:48:02.824] [INFO] router-response - [Object: null prototype] { 'x-powered-by': 'Express' }
+[2020-12-29T16:53:36.041] [INFO] router-response - [Object: null prototype] { 'x-powered-by': 'Express' }
+[2020-12-29T16:56:14.233] [INFO] router-response - [Object: null prototype] { 'x-powered-by': 'Express' }
+[2020-12-29T16:56:57.610] [INFO] router-response - [Object: null prototype] { 'x-powered-by': 'Express' }
+[2020-12-29T17:02:53.842] [INFO] router-response - [Object: null prototype] { 'x-powered-by': 'Express' }
+[2020-12-29T17:03:03.176] [INFO] router-response - [Object: null prototype] { 'x-powered-by': 'Express' }
+[2020-12-29T17:03:10.694] [INFO] router-response - [Object: null prototype] { 'x-powered-by': 'Express' }
+[2020-12-29T17:04:22.192] [INFO] router-response - [Object: null prototype] { 'x-powered-by': 'Express' }
+[2020-12-29T17:07:12.259] [INFO] router-response - [Object: null prototype] { 'x-powered-by': 'Express' }
+[2020-12-29T17:08:25.253] [INFO] router-response - [Object: null prototype] { 'x-powered-by': 'Express' }
+[2020-12-29T17:08:25.255] [ERROR] router-error - ReferenceError: ms is not defined
+    at C:\Users\Administrator\Desktop\南方传媒实习\project\ngw_project\router.js:17:58
+    at wrap (C:\Users\Administrator\Desktop\南方传媒实习\project\ngw_project\node_modules\axios\lib\helpers\spread.js:25:21)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[2020-12-29T17:08:38.433] [INFO] router-response - [Object: null prototype] { 'x-powered-by': 'Express' }
+[2020-12-29T17:08:42.930] [INFO] router-response - [Object: null prototype] { 'x-powered-by': 'Express' }
+[2020-12-29T17:09:09.902] [INFO] router-response - [Object: null prototype] { 'x-powered-by': 'Express' }
+[2020-12-29T17:13:01.442] [INFO] router-response - {
+  url: 'https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&date=2017-08-03',
+  Method: 'GET',
+  Timeout: '1086ms'
+}
+[2020-12-29T17:22:59.081] [INFO] router-response - {
+  url: 'https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&date=2017-08-03,https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&date=2017-08-02',
+  Method: 'GET',
+  Timeout: '2544ms'
+}
+[2020-12-29T17:23:45.048] [INFO] router-response - {
+  url: 'https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&date=2017-08-03;https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&date=2017-08-02',
+  Method: 'GET',
+  Timeout: '2705ms'
+}

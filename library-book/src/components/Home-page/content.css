@@ -1,0 +1,50 @@
+.content-first {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(243, 154, 154);
+    /* overflow: scroll; */
+}
+.home-to-login {
+    position: fixed;
+    
+}
+.content-main {
+    height: 100%;
+    overflow: hidden;
+    width: 80%;
+    background-color: rgb(243, 154, 154);
+}
+.content-item {
+    /* position: absolute; */
+    /* height: 100%; */
+    padding-top: 5%;
+}
+.content-item li {
+    display: flex;
+    list-style:none;
+    width: 90%;
+    height: 10vh;
+    border-radius: 20px;
+    margin: 5px 0 2px 0;
+    background-color: rgb(255, 255, 255);
+}
+.content-item li:hover {
+    transition: .5s;
+    background-color: rgb(204, 204, 204);
+}
+.content-item-logo {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    top: 50%;
+    left: 2%;
+    transform: translate(0,-50%);
+    width: 10%;
+    height: 60%;
+    line-height: 100%;
+    font-size: 3rem;
+    border-radius: 20px;
+    background-color: rgb(243, 154, 154);
+}
